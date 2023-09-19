@@ -33,3 +33,9 @@ Total Pizzas Sold by Pizza Category: Create a funnel chart that presents the tot
 Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders: Create a bar chart highlighting the top 5 best selling pizzas based on revenue, total quantity and total orders. This chart will help us identify the most popular pizza options.
 
 Bottom 5 Sellers by Revenue, Total Quantity and Total Orders: Create a bar chart showcasing the bottom 5 worst selling pizzas based on revenue, total quantity and total orders. This chart will enables us to identify underperforming or less popular pizza options.
+
+FINAL REPORT
+
+[Pizza sales report.pdf](https://github.com/Mugisha112/Pizza_sales_PBI/files/12655144/Pizza.sales.report.pdf)
+
+
